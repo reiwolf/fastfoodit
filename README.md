@@ -2,7 +2,7 @@
 
 Aulas rápidas sobre vários temas de IT
 
-Aula enfocando comandos básicos de Ionic v1, php com mysql
+Aula com foco em comandos básicos de Ionic v1, php com mysql
 
 em 27/11/2017 e finalizado em 28/11/2017
 
